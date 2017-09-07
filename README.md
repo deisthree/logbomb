@@ -13,4 +13,4 @@ With a functioning Deis Workflow cluster and `kubectl` properly configured:
 $ make build kube-create
 ```
 
-[v2.18]: https://github.com/deis/workflow/releases/tag/v2.18.0
+[v2.18]: https://github.com/deisthree/workflow/releases/tag/v2.18.0
